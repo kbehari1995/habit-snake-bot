@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "strong-charge-201806",
+  "private_key_id": "2886bc5c247bd097b8d2cc28d5bfecddb6260c45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDhIRPuHiZdIiyV\ncDIMkK2P7L4C9gZWA19ImH/Yyu/OjTp+ziWVRsa7pML4YVj8trwC3A71dn3E9jY4\nrRrW2Aqz7h/0iGgR6sxjt/DC8JiSb5f/5WnO0t9LeCTs/8A+eRGozkENizvsFpJF\nRu7qV/fA5LdUk2NFHPcl1T9vfKBfLW9nEmkAjrKEtZTPxWVoDv5jVo0n7fyrNnr6\nEzxsQmhVfWTVoIGsthqKInJLGb7oHmKp6mT1nb0CzDckCG22C8vX5cZV56hS+6xL\nBqa+djqHghQrhc8GnePJrjg5/G/qYfBg4EWf94NBnG3pz4MAMHeGwRWsNv0IzQhK\nCHKlVu3zAgMBAAECggEAHh09G8CHtDSSjyjTYQ/nT5XE8wNy5IWN9NmFXHwE6PXG\nSdkMePPfOJF5DR2EeEV/T8ic7aO8fiDLLvik2vFKOThUqPKoLSFh1sLvnzvsxMXN\nqMrIxQQ7H07CbbtmPVUXkiOI2yVxTgrU5RRweANtXi2aAmO2xzNxMevdEO40S5a5\nhuiUGjw6Uz0EPj4oPQisfPCQ3ZMBjnzxkGxv3xqXejnkueOl04ZLJrfbbZnDZBS/\noIg+EkBW0w3rr+wPbYa2mC1hg4gFNZL8Pnrnmac1lvmxqiQWUQAtlDCXbsH1ulUr\nSZyomiQ9I/9ls29qQ4mlX8YTyzAC4Ezq+bopQ0qLEQKBgQD5W2hOLlqizsUalUti\nzTXgR4fZXlzDgZ/mWuG4H6tgPJpL13+lLtyiz3S36c9PiqipyzJaWR7siGgeZE14\nfE30ITFBmHrXs1tnntAWJjz/vR1SJD0t83j4KwvcNivIhZsA2Mawu/62rpqeZQMH\noHKFvf9NOlxfkx7gP+eUIGf5AwKBgQDnIHBMh0pXPf8X+HBjfeWWFQB0Juae9ggs\n07LflWvH7lQvHp6OKqY2gYtlkFglSLFvL1mC5RRqFYjTacgHvLVxifBoCW/jg7fA\nhQx/M/40hXfpD9Ui4B0fASvxAh/dbG5ZAFdO/JCN1142/JFTyr2y5l6JqsoDB66d\nlpnajJcMUQKBgQCKoQHdLTIgf1nfTI7rr/C67qmc9DQYUTFnbLE+nwS07RxO+9Cw\nMdxh+3oFYUxrCUh5lUk6J3/kunVAKD1Vta3VArsSn8Xzs3gmpIlFNx8EgswRRapp\nqIlhVvUyCT/QLE8famUUDoAuaeX2F2xWyiHBLv8HnWGLlQw+WejSVi3XpwKBgQDc\nXtKUNT7NliAeo9PNGSIJinbHSLwFfsJms2bOxbJhi70avFAjb0jRmYzmxs00p23+\nfCAVrQRc7bFrGmYN8oDyA7qEB9N2E4XlezZiJpnPTB77ygvHV/aMNFrITeVCAvvn\nwmp8tlXB2EJNnV2Xjix3Yi1rh7tbTjzQpuKFPh1bMQKBgQDxDcI3s7CofvbwFAsH\nKRKbFXPupUwZGbYAcO8WJOxjEKDj4WhUH6AjGsQZpJPoeLR2U7di61XvOu9RR0jI\nOKfluOXTq9qqSB/Ua8J9M/+sWsQXMeg4VMeMmvr2KANP8ppbg+L81226Gwr+dZSp\nXkwwLbMWHhVjHb3crTn7Nu8kjg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "habit-share-service-account@strong-charge-201806.iam.gserviceaccount.com",
+  "client_id": "102570424591601328690",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/habit-share-service-account%40strong-charge-201806.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
