@@ -1,25 +1,24 @@
 # main.py
-from telegram.ext import Updater
-from handlers.sethabits import set_habits_handler
 import os
 from dotenv import load_dotenv
+from telegram.ext import ApplicationBuilder
+from handlers.sethabits import set_habits_handler
 
-load_dotenv()
+# Load .env only if available (for local dev)
+if os.path.exists(".env"):
+    load_dotenv()
 
+# Load environment variables
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-SHEET_ID = os.getenv("SHEET_ID")
-
 
 def main():
-    updater = Updater(BOT_TOKEN, use_context=True)
-    dp = updater.dispatcher
+    app = ApplicationBuilder().token(BOT_TOKEN).build()
 
-    # Register handlers
-    #dp.add_handler(set_habits_handler)
+    # Register all command/conv handlers
+    app.add_handler(set_habits_handler)
 
-    print("✅ Bot running...")
-    updater.start_polling()
-    updater.idle()
+    print("✅ Bot is running...")
+    app.run_polling()
 
 if __name__ == "__main__":
     main()
