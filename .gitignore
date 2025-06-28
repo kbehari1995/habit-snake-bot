@@ -21,7 +21,7 @@ Thumbs.db
 # Secrets
 .env
 config.py
-credentials.json
+CREDS.json
 token.json
 
 # Replit
