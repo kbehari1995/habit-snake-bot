@@ -1,8 +1,8 @@
 language = "python3"
 modules = ["python-3.12"]
 
-[nix]
+[nix] #type:ignore
 channel = "stable-24_05"
 
-[run]
+[run] # type: ignore
 command = "git pull origin main || echo 'Pull failed'"
