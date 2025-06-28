@@ -1,6 +1,6 @@
 # main.py
 from telegram.ext import Updater
-#from handlers.sethabits import set_habits_handler
+from handlers.sethabits import set_habits_handler
 import os
 from dotenv import load_dotenv
 
