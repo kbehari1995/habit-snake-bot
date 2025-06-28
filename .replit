@@ -1,6 +1,8 @@
+language = "python3"
 modules = ["python-3.12"]
 
 [nix]
 channel = "stable-24_05"
 
-git pull origin main
+[run]
+command = "git pull origin main || echo 'Pull failed'"
