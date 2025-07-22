@@ -2,3 +2,16 @@ python-telegram-bot==20.6
 gspread
 oauth2client
 python-dotenv
+nest_asyncio
+emoji
+pytest==8.0.0
+pytest-mock==3.12.0
+APScheduler
+colorama
+tqdm
+requests
+pytz
+google-auth
+google-auth-oauthlib
+asyncpg
+matplotlib

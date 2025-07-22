@@ -23,6 +23,11 @@ Thumbs.db
 config.py
 CREDS.json
 token.json
+test.py
 
 # Replit
 *.db
+
+#logs
+logs/
+bin/
